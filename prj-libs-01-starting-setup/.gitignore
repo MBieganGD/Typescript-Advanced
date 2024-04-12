@@ -1,0 +1,4 @@
+node_modules
+dist
+/src/apikey.ts
+/src/config.js
